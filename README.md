@@ -47,7 +47,7 @@
   
 ### :bar_chart: Projects :
 
-- ## [Forecasting Energy Demand] (https://github.com/Polinia/projects_Portfolio/tree/main/Project:%20Forecasting%20Energy%20Demand)
+- ## [Forecasting Energy Demand](https://github.com/Polinia/projects_Portfolio/tree/main/Project:%20Forecasting%20Energy%20Demand)
   The project considers the problem of planning demand for electricity using intellectual data analysis. The purpose of the study was to obtain a reliable forecast of electricity consumption. In the course of the study, a set of methods of scientific knowledge, including machine learning methods, was applied.
 - ## [Graduation project: Fake/Real Job Posting Prediction](https://github.com/Polinia/skillfactory_rds/tree/main/graduate_project)
   The project aims to create a model for the classification of jobs as real or fraudulent. In this project, I have tried to use Natural Language Processing and different Machine Learning algorithms
